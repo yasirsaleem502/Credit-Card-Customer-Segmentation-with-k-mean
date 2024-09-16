@@ -19,7 +19,7 @@ This project focuses on segmenting credit card customers using K-Means Clusterin
 - [K Means Clustering](#k-means-clustering)
 - [Model Evaluation](#model-evaluation)
 - [Reasult](#reasult)
-- [How to Run](#how-to-run)
+- [Contact](#contact)
 
 
 ## Introduction
@@ -111,10 +111,20 @@ The results of the K-Means Clustering model depend on how well the data points a
 #### Summary of the Clusters:
 
 - Cluster 0 (Red): Likely represents high-spending customers who prefer installment purchases and are more financially stable, with lower balances and higher installment-based purchases.
-- 
+  
 - Cluster 1 (Green): Represents low-activity customers who use their credit cards less frequently and have lower balances and credit limits.
-- 
+  
 - Cluster 2 (Blue): Likely represents high-balance customers who tend to carry a large outstanding balance, make minimum payments, and have been using the card for a long period
+
+
+## Contact
+
+- **Author**: Muhammad Yasir Saleem
+- **Email**: myasirsaleem94@gmail.com
+- **LinkedIn**:https://www.linkedin.com/in/muhammad-yasir-saleem/
+
+Feel free to reach out if you have any questions or need further information.
+
 
 
 
